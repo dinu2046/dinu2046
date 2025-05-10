@@ -8,7 +8,6 @@
  🧑🏻‍💻I’m currently learning Python 
 
 <br>
-<br>
 
 <!-- BANNER -->
 <img  src="https://github.com/dinu2046/dinu2046/blob/main/assets/lofi_code.gif" />

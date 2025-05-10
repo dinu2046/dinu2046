@@ -35,10 +35,11 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,nodejs,graphql,bootstrap,py,docker,netlify,git,stackoverflow,nginx,jenkins&perline=12" /></a>
   </p>
 
-  <i><h3 align="Center">Connect with me</h3></i>
+  <i><h3 align="left">Connect with me</h3></i>
 
 
-    [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/mohammad-faisal-2665b5134))
+<br>
+    [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com](https://www.linkedin.com))
 
     [<img align="left" alt="medium" src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://56faisal.medium.com/](https://56faisal.medium.com/))
 

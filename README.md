@@ -6,7 +6,6 @@
  📍I am Dinu from 🇮🇳, I enjoy learning new technologies and exploring tech.
 
  🧑🏻‍💻I’m currently learning Python 
-
 <br>
 
 <!-- BANNER -->

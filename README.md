@@ -7,10 +7,10 @@
 
  🧑🏻‍💻I’m currently learning Python 
 
-<br>
+
 <!-- BANNER -->
 <img  src="https://github.com/dinu2046/dinu2046/blob/main/assets/lofi_code.gif" />
-<!-- Activity Stats -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 

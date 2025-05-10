@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-📍I am Dinu from India, I enjoy learning new technologies and exploring tech.
+ 📍I am Dinu from India, I enjoy learning new technologies and exploring tech.
 
-🌱 I’m currently learning Python 
+ 🧑🏻‍💻I’m currently learning Python 
 
 <!-- BANNER -->
 <img  src="https://github.com/dinu2046/dinu2046/blob/main/assets/lofi_code.gif" />
@@ -37,12 +37,20 @@
 
   <i><h3 align="right">Connect with me</h3></i>
 
-<p align="right">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  </a>
-</p>
+<br>
+
+    ## Connect with me
+
+    [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com](https://www.linkedin.com))
+
+    [<img align="left" alt="medium" src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://medium.com/](https://medium.com/))
+
+    [<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com](https://stackoverflow.com))
+
+    [<img align="left" alt="facebook" src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)" />]([https://www.facebook.com](https://www.facebook.com))
+
+    [<img align="left" alt="twitter" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)" />]([https://twitter.com](https://twitter.com))
+
+    <br>
+    <br>
 

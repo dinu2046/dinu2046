@@ -37,8 +37,7 @@
 
   <i><h3 align="Center">Connect with me</h3></i>
 
-<br>
-    [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com](https://www.linkedin.com))
+    <br> [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com](https://www.linkedin.com))
 
     [<img align="left" alt="medium" src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)" />]([https://medium.com/](https://medium.com/))
 

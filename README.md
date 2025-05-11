@@ -1,9 +1,9 @@
 <h2 align="left">
  Hi there!
-  <img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" hight="70" width="70">
+  <img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" hight="60" width="60">
 </h2>
 
- 🗺️ I am Dinu from 🇮🇳, I enjoy learning new technologies and exploring tech.
+ 🏡 I am Dinu from 🇮🇳, I enjoy learning new technologies and exploring tech.
 
  🧑🏻‍💻 I’m currently learning Python 
 

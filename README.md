@@ -1,6 +1,6 @@
 <h2 align="left">
  Hi there!
-  <img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" width="28" align="center">
+  <img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" hight="50" width="50">
 </h2>
 
  📍I am Dinu from 🇮🇳, I enjoy learning new technologies and exploring tech.

@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,dotnet,gop,git,gitlab,html,htmx,java,js,kali,linux,mysql,ps,php,powershell,pr,py,visualstudio,vscode,windows,wordpress&perline=12&theme="dark"/></a>
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,dotnet,gcp,git,gitlab,html,htmx,java,js,kali,linux,mysql,ps,php,powershell,pr,py,visualstudio,vscode,windows,wordpress&perline=12&theme="dark"/></a>
   </p>
 
   <h3 align="left">Connect with me</h3>

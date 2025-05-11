@@ -1,6 +1,6 @@
 <h2 align="left">
- Hi there!</h2>
-  <img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" hight="60" width="60">
+<img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" hight="60" width="60"> 
+  Hi there!</h2>
 
 
 

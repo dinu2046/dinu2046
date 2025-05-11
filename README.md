@@ -5,7 +5,7 @@
 
  📍I am Dinu from 🇮🇳, I enjoy learning new technologies and exploring tech.
 
- 🧑🏻‍💻I’m currently learning Python 
+👨🏻‍🎓I’m currently learning Python 
 
 
 <!-- BANNER -->
@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,nodejs,graphql,bootstrap,py,docker,netlify,git,stackoverflow,nginx,jenkins&perline=12&theme=light" /></a>
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,css,dotnet,gcp,git,gitlab,html,htmx,java,js,kali,linux,mysql,ps,php,powershell,pr,py,raspberrypi,visualstudio,vscode,windows,wordpress&perline=12&theme=light" /></a>
   </p>
 
   <h3 align="left">Connect with me</h3>

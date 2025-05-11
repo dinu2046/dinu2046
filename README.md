@@ -1,5 +1,5 @@
 <h2 align="left">
-<img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" align="center" hight="50" width="55"> 
+<img src="https://media2.giphy.com/media/oIAha6UGEx8UMGSFIt/giphy.gif" hight="55" width="60"> 
   Hi there!</h2>
 
 
